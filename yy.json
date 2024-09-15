@@ -1,0 +1,9 @@
+{
+  "frame_time": 0.05,
+  "frame_count": 3881,
+  "video": "https://git.being.pet/hkc/cc-trash/raw/branch/master/yy/frame%04d.cpi",
+  "audio": {
+    "l": "https://git.being.pet/hkc/cc-trash/raw/branch/master/yy/left.s8",
+    "r": "https://git.being.pet/hkc/cc-trash/raw/branch/master/yy/right.s8"
+  }
+}
