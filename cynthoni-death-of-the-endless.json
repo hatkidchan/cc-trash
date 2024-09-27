@@ -1,9 +1,9 @@
 {
   "frame_time": 0.05,
   "frame_count": 6237,
-  "video": "https://git.being.pet/hkc/cc-trash/raw/branch/master/cynthoni-death-of-the-endless/frame%04d.cpi",
+  "video": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/cynthoni-death-of-the-endless/frame%04d.cpi",
   "audio": {
-    "l": "https://git.being.pet/hkc/cc-trash/raw/branch/master/cynthoni-death-of-the-endless/left.s8",
-    "r": "https://git.being.pet/hkc/cc-trash/raw/branch/master/cynthoni-death-of-the-endless/right.s8"
+    "l": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/cynthoni-death-of-the-endless/left.s8",
+    "r": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/cynthoni-death-of-the-endless/right.s8"
   }
 }

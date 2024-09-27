@@ -1,9 +1,9 @@
 {
   "frame_time": 0.05,
   "frame_count": 5200,
-  "video": "https://git.being.pet/hkc/cc-trash/raw/branch/master/svrge-break-away/frame%04d.cpi",
+  "video": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/svrge-break-away/frame%04d.cpi",
   "audio": {
-    "l": "https://git.being.pet/hkc/cc-trash/raw/branch/master/svrge-break-away/left.s8",
-    "r": "https://git.being.pet/hkc/cc-trash/raw/branch/master/svrge-break-away/right.s8"
+    "l": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/svrge-break-away/left.s8",
+    "r": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/svrge-break-away/right.s8"
   }
 }
