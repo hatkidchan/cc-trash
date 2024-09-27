@@ -1,0 +1,9 @@
+{
+  "frame_time": 0.1,
+  "frame_count": 2594,
+  "video": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/sea-of-clouds/frame%04d.cpi",
+  "audio": {
+    "l": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/sea-of-clouds/left.s8",
+    "r": "https://raw.githubusercontent.com/hatkidchan/cc-trash/refs/heads/gh/sea-of-clouds/right.s8"
+  }
+}
